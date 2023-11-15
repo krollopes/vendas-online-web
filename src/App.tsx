@@ -4,7 +4,7 @@ import { BackgroundImage } from './modules/login/styles/loginScreen.styles';
 function App() {
   return (
     <>
-      <BackgroundImage src='./background.png' />
+      <BackgroundImage src="./background.png" />
       <LoginScreen />
     </>
   );
